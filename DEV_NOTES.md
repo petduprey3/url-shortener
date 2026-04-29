@@ -23,3 +23,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-22
 - Bumped patch version
 - Added basic retry logic for network requests
+
+## 2026-04-29
+- Investigated performance bottleneck, noted findings
+- Improved error handling in edge cases
