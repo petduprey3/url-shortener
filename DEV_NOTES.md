@@ -35,3 +35,6 @@ Personal development log — notes, findings, and ongoing work.
 - Cross-checked behaviour against spec
 - Reviewed open issues, added labels
 - Bumped patch version
+
+## 2026-05-13
+- Updated license year
