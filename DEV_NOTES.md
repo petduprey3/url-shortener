@@ -30,3 +30,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-05-13
 - Drafted initial implementation plan for v2
+
+## 2026-05-13
+- Cross-checked behaviour against spec
+- Reviewed open issues, added labels
+- Bumped patch version
